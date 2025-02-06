@@ -1,5 +1,8 @@
-Do with this file as you please. Initial values for velocity, mass etc. were chosen as per information below and it worked first time !
-I developed this on MacBook Air M3 .. since it uses the pymunk physics engine, your result may vary depeding on CPU/GPU processing speed, but it should work.
+Do with this file as you please. 
+
+Initial values for velocity, mass etc. were chosen as per information below and it worked first time !
+
+I developed this on MacBook Air M3 .. since it uses the pymunk physics engine, your result may vary depending on CPU/GPU, processing speed etc. but it should work.
 
 
 More information
